@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string-array name="length_array">
+        <item>英呎(foot)</item>
+        <item>英吋(inch)</item>
+        <item>碼(yard)</item>
+    </string-array>
+    <string-array name="area_array">
+        <item>平方公尺</item>
+        <item>坪</item>
+    </string-array>
+
+</resources>
